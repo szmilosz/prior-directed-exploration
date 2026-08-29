@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess — code"
+authors:
+  - family-names: "Miłosz"
+    given-names: "Szymon"
+    affiliation: "Institute of Applied Computer Science, Lodz University of Technology"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess"
+  authors:
+    - family-names: "Miłosz"
+      given-names: "Szymon"
+    - family-names: "Duch"
+      given-names: "Piotr"
+    - family-names: "Grabowski"
+      given-names: "Szymon"
+  year: 2026

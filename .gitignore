@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+output/
+model_assets/*.onnx
+!model_assets/.gitkeep
+*.pt
+
+# Decompressed counterparts of the vendored .gz data assets
+# (recreate with scripts/prepare_data.sh)
+data/openings/UHO_Lichess_4852_v1.epd
+data/test/*.csv
+data/test/*.jsonl
+!data/test/puzzles.csv

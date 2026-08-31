@@ -1,7 +1,7 @@
 # Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess
 
-Code for the paper *"Beyond Search-Imitation: Prior-Directed Exploration for
-Searchless Chess"*.
+Code for the paper [*"Beyond Search-Imitation: Prior-Directed Exploration for
+Searchless Chess"*](https://arxiv.org/abs/2608.27757) (arXiv:2608.27757).
 
 A searchless chess network — Lc0's supervised-distilled BT4 Chessformer — is
 fine-tuned for single-pass playing strength by self-play policy gradient. The usual

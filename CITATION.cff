@@ -9,6 +9,7 @@ license: MIT
 preferred-citation:
   type: article
   title: "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess"
+  url: "https://arxiv.org/abs/2608.27757"
   authors:
     - family-names: "Miłosz"
       given-names: "Szymon"
